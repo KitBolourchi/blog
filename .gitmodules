@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:KitBolourchi/kitbolourchi.git
+	branch = main
