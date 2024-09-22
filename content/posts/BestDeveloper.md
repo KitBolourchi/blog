@@ -1,6 +1,6 @@
 +++
 title = 'The best programmer I know!'
-date = 2024-06-04T21:01:11+01:00
+date = 2024-09-22T21:01:11+01:00
 +++
 
 I watched a presentation from the KotlinConf'24 which peaked my interest.
